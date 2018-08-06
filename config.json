@@ -2,7 +2,7 @@
 	  {
    "title":"CBC News",
     "drawable":"",
-    "submenu":"NEWS ",
+    "submenu":"NEWS",
     "iap":false,
     "tabs":[
       {
